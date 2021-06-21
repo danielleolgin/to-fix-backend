@@ -32,7 +32,7 @@
     "husky": "^0.14.3",
     "jwt-simple": "^0.5.1",
     "lint-staged": "^4.2.3",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "logform": "^1.2.1",
     "mapbox-data-team": "^1.4.11",
     "mapbox-error": "^2.2.0",
