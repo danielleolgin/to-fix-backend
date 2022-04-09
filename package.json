@@ -37,7 +37,7 @@
     "mapbox-data-team": "^1.4.11",
     "mapbox-error": "^2.2.0",
     "memory-cache": "^0.2.0",
-    "moment": "^2.21.0",
+    "moment": "^2.29.2",
     "oauth": "^0.9.15",
     "ohauth": "^1.0.0",
     "p-map": "^1.2.0",
